@@ -1,0 +1,119 @@
+@charset "utf-8";
+
+.pwn-profile-widget-ninja-wrapper {
+    background: #3a5795;
+    overflow: hidden;
+    border: 0;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 2px 2px -2px rgba(0, 0, 0, 0.52);
+    -moz-box-shadow: 0 2px 2px -2px rgba(0, 0, 0, 0.52);
+    -ms-box-shadow: 0 2px 2px -2px rgba(0, 0, 0, 0.52);
+    -o-box-shadow: 0 2px 2px -2px rgba(0, 0, 0, 0.52);
+    box-shadow: 0 2px 2px -2px rgba(0, 0, 0, 0.52);
+}
+.pwn-profile-widget-ninja-cover-pic {
+    height: 200px;
+    min-height: 200px;
+    margin: 0;
+    outline: 0;
+    box-sizing: border-box;
+    position: relative;
+    background-repeat: no-repeat;
+}
+.pwn-profile-widget-ninja-wrapper .profile-avatar {
+    position: relative;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #FFFFFF;
+    margin-bottom: 10px;
+}
+.pwn-profile-widget-ninja-avatar-round .profile-avatar {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+}
+.pwn-read-more {
+    display: block;
+}
+.pwn-container-bottom-wrapper {
+    padding: 20px;
+    color: #FFFFFF;
+}
+.pwn-container-bottom-wrapper a {
+    color: #55E6C6;
+}
+.pwn-container-bottom-wrapper a:hover {
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+.pwn-profile-widget-ninja-layout-left {
+    text-align: left;
+}
+.pwn-profile-widget-ninja-layout-center {
+    text-align: center;
+}
+.pwn-profile-widget-ninja-layout-right {
+    text-align: right;
+}
+.pwn-description-container {
+    margin-top: 20px;
+}
+.pwn-container-social-links {
+    text-align: center;
+    padding: 18px;
+    background-color: #29395A;
+}
+.pwn-container-social-links img {
+    margin: 2px 4px 2px 0;
+}
+
+/* Style 2 overrides*/
+.pwn-layout-style-style2 .pwn-container-bottom-wrapper {
+    color: #333333;
+}
+.pwn-layout-style-style2 .pwn-container-bottom-wrapper a {
+    color: #BD081C;
+}
+.pwn-layout-style-style2 .pwn-container-bottom-wrapper a:hover {
+    color: #8A8A8A;
+    text-decoration: underline;
+}
+.pwn-layout-style-style2 .pwn-container-social-links {
+    background-color: #F5F5F5;
+}
+.pwn-profile-widget-ninja-wrapper.pwn-layout-style-style2 {
+    background: #ffffff;
+    -webkit-box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.22);
+    -moz-box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.22);
+    -ms-box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.22);
+    -o-box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.22);
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.22);
+}
+
+/* Style 3 overrides*/
+.pwn-layout-style-style3 .pwn-container-bottom-wrapper {
+    color: #292F33;
+}
+.pwn-layout-style-style3 .pwn-container-bottom-wrapper a {
+    color: #2FC2EF;
+}
+.pwn-layout-style-style3 .pwn-container-bottom-wrapper a:hover {
+    text-decoration: underline;
+}
+.pwn-layout-style-style3 .pwn-container-social-links {
+    background-color: #E6E6E6;
+}
+.pwn-profile-widget-ninja-wrapper.pwn-layout-style-style3 {
+    background: #F5F8FA;
+    -webkit-box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.22);
+    -moz-box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.22);
+    -ms-box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.22);
+    -o-box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.22);
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.22);
+}
