@@ -2,11 +2,11 @@
 Contributors: gurudeb
 Plugin URI: http://pankajgurudeb.blogspot.com/2016/01/profile-widget-ninja-wordpress-plugin.html
 Author URI: http://pankajgurudeb.blogspot.com
-Donate link: http://pankajgurudeb.blogspot.com/2016/01/profile-widget-ninja-wordpress-plugin.html
-Tags: profile, widget, widgets, about, me, user, social, about me, about me widget, aboutme, my profile, details, quick view, sidebar, simple, link, users, ninja, custom, color, colour, customize
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8RU2P54KQFT56
+Tags: profile, widget, widgets, about, shortcode, me, user, social, about me, about me widget, aboutme, my profile, details, quick view, sidebar, simple, link, users, ninja, custom, color, colour, customize
 Requires at least: 3.5
-Tested up to: 4.5
-Stable tag: 2.1
+Tested up to: 4.7
+Stable tag: 3.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,9 +16,7 @@ Profile Widget Ninja is a full featured profile display widget plugin for WordPr
 
 Profile Widget Ninja can be used to display user profile section with description, profile image, cover image, custom read more link and social links. It can be used in any widget area, such as a sidebar or a footer. Social link options such as Facebook, Twitter, LinkedIn, Instagram and Pinterest are available. Multiple user profiles can be displayed simultaneously using multiple widgets.
 
-After plugin activation 'Profile Widget Ninja' widget will be available under Appearance > Widgets, just drag and drop to any desired widget area.
-
-<h3>Do you have any requests or suggestions to make this plugin better? Please share your thoughts in the support thread.</h3>
+After plugin activation 'Profile Widget Ninja' widget will be available under Appearance > Widgets, just drag and drop to any desired widget area. You can also use the generated shortcode to show the widget in any page or post.
 
 == Installation ==
 
@@ -58,6 +56,35 @@ Not at all! It will cause no problem with WordPress update process.
 4. Different layout styles
 
 == Changelog ==
+
+= 3.1 =
+* Blogger option added
+* New Style (Style 5) added
+
+= 3.0 =
+* Shortcode support added
+* Accessibility improvements
+* Style improvements
+* Vimeo option added
+* New Style (Style 4) added
+
+= 2.5 =
+* PHP strict standards support added
+
+= 2.4 =
+* Icons updated
+* Additional icon-set added and option to choose one of the icon sets
+* Skype option added
+
+= 2.3.1 =
+* Cover image center aligned
+
+= 2.3 =
+* GitHub option added
+
+= 2.2 =
+* Google+ option added
+* YouTube option added
 
 = 2.1 =
 * Email option added
